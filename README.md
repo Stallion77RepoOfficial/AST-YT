@@ -18,5 +18,3 @@ Bu Python betiği, belirli kriterlere göre YouTube videolarını arar ve sonuç
     - Maksimum video süresi (dakika cinsinden)
     - Minimum video izlenme sayısı
     - Yaş kısıtlaması olup olmadığı (Eğer varsa 'E', yoksa 'H')
-
-Betik, belirtilen kriterlere uyan videoların YouTube bağlantılarını yazdırır. Eğer belirtilen kriterlere uyan hiçbir video bulunamazsa, "Video bulunamadı" mesajını yazdırır.
