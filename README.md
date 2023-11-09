@@ -10,7 +10,7 @@ Bu Python betiği, belirli kriterlere göre YouTube videolarını arar ve sonuç
 ## Kullanım
 
 1. Bu repoyu klonlayın veya indirin.
-2. `pip install --upgrade google-api-python-client isodate` komutunu kullanarak gerekli modülleri yükleyin.
+2. `pip3 install --upgrade google-api-python-client isodate` komutunu kullanarak gerekli modülleri yükleyin.
 3. Betiği çalıştırın ve gerekli bilgileri girin.
     - Başlangıç ve bitiş tarihleri (YYYY-MM-DD formatında)
     - Aranacak anahtar kelimeler (virgülle ayrılmış)
