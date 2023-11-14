@@ -1,4 +1,4 @@
-# AST-YT
+## AST-YT
 
 Bu Python betiği, belirli kriterlere göre YouTube videolarını arar ve sonuçları döndürür. Kullanıcıların belirli tarihler arasında, belirli anahtar kelimelerle, belirli bir izlenme sayısı ve maksimum süre ile videoları aramasına olanak sağlar. Ayrıca, kullanıcı yaş kısıtlamalı videoları aramak isteyip istemediğini de seçebilir.
 
